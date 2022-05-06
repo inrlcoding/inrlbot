@@ -1,6 +1,6 @@
 const { MessageType, Mimetype  } = require('@adiwajshing/baileys')
 
-const shadowButton = (id, text1, desc1, but = [], options = {}) => {
+const inrlButton = (id, text1, desc1, but = [], options = {}) => {
       const buttonMessage = {
         contentText: text1,
         footerText: desc1,
