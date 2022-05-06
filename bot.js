@@ -152,13 +152,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         console.log(
             chalk.blueBright.italic('❐ Password Checking↻')
         );
-        if (Spark.SHADOWPW == 'inrl' || Spark.SHADOWPW == 'faz' || Spark.SHADOWPW == 'fasweeh') {
+        if (faz.INRLPW == 'inrl' || faz.INRLPW == 'faz' || faz.INRLPW == 'fasweeh') {
         //Coded by Shadow
         console.log(
             chalk.green.bold('✅PASSWORD DONE...\n☞ 𝚅𝚒𝚛𝚞𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙴𝚗𝚊𝚋𝚕𝚎𝚍...')
         );
          }
-         else if (Spark.SHADOWPW !== 'inrl' || Spark.SHADOWPW !== 'faz' || Spark.SHADOWPW !== 'fasweeh') {
+         else if (faz.INRLPW !== 'inrl' || faz.INRLPW !== 'faz' || faz.INRLPW !== 'fasweeh') {
          console.log(
             chalk.red.bold('❌PASSWORD INCORRECT...\n☞ 𝚅𝚒𝚛𝚞𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 𝙳𝚒𝚜𝚊𝚋𝚕𝚎𝚍...'));
          }
