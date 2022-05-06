@@ -1,6 +1,6 @@
 /* Codded by @phaticusthiccy
 Telegram: t.me/phaticusthiccy
-Instagram: www.instagram.com/kyrie.baran
+Instagram: www.instagram.com/mhd_fasweeh
 */
 
 const inrl = require('../events');
@@ -50,7 +50,7 @@ let id = match[1];
         .format('mp3')
         .save('output.mp3')
         .on('end', async () => {
-            var url = await axios.get(Spark.THUMBNAIL, { responseType: 'arraybuffer' })
+            var url = await axios.get(faz.THUMBNAIL, { responseType: 'arraybuffer' })
 let options = {}
 options.ptt = true
 options.mimetype = Mimetype.mp4Audio
@@ -62,7 +62,7 @@ options.quoted = {
       },
       message: {
         documentMessage: {
-          title: Spark.VERIFY,
+          title: faz.VERIFY,
           jpegThumbnail: Buffer.from(url.data)
         }
       }
@@ -175,7 +175,7 @@ let id = match[1];
         .format('mp3')
         .save('output.mp3')
         .on('end', async () => {
-            var url = await axios.get(Spark.THUMBNAIL, { responseType: 'arraybuffer' })
+            var url = await axios.get(faz.THUMBNAIL, { responseType: 'arraybuffer' })
 let options = {}
 options.ptt = true
 options.mimetype = Mimetype.mp4Audio
@@ -187,7 +187,7 @@ options.quoted = {
       },
       message: {
         documentMessage: {
-          title: Spark.VERIFY,
+          title: faz.VERIFY,
           jpegThumbnail: Buffer.from(url.data)
         }
       }
