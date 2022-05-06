@@ -3,7 +3,7 @@ const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../../config');
 let wk = Config.WORKTYPE == 'public' ? false : true
 
-Shadow.addCommand({pattern: 'test ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
+inrl.addCommand({pattern: 'test ?(.*)', fromMe: wk, dontAddCommandList: true}, (async (message, match) => {
 
       const rows = [
         { title: "MENU", rowId:"" },
@@ -24,7 +24,7 @@ Shadow.addCommand({pattern: 'test ?(.*)', fromMe: wk, dontAddCommandList: true},
 await message.client.sendMessage(message.jid, listButton, MessageType.listMessage, { quoted: message.data })
 }));
 
-Shadow.addCommand({on: 'text', fromMe: false}, (async (message, match) => {   
+inrl.addCommand({on: 'text', fromMe: false}, (async (message, match) => {   
 
 const type = Object.keys(message.message)[0]
 selectedButton = (type == 'buttonsResponseMessage') ? message.message.buttonsResponseMessage.selectedButtonId : ''
