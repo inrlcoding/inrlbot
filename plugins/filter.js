@@ -220,7 +220,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
  
      inrl.addCommand({on: 'text', fromMe: false,onlyGroup: true}, (async (message, match) => {
 
-        if(Spark.afnp !== 'false'){
+        if(faz.afnp !== 'false'){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         
