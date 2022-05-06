@@ -7,7 +7,7 @@ const inrl = require('../events');
 const Config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
 const fs = require("fs")
-const Spark = require('../spark');
+const faz = require('../faz');
 const axios = require('axios');
 let wk = Config.WORKTYPE == 'public' ? false : true
 const Language = require('../language');
