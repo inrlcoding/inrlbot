@@ -166,31 +166,43 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
 // ==================== End Check ====================
 
         console.log(
-            chalk.green.bold('✅ inrl-Bot working!')
-        );
-function _0x3067(_0x57f48d,_0x443566){const _0x898e4f=_0x898e();return _0x3067=function(_0x30679,_0x5a23cc){_0x30679=_0x30679-0x1cd;let _0x9b0b2d=_0x898e4f[_0x30679];return _0x9b0b2d;},_0x3067(_0x57f48d,_0x443566);}const _0x540882=_0x3067;(function(_0x2b55b3,_0x509ce8){const _0x4557da=_0x3067,_0x526a8d=_0x2b55b3();while(!![]){try{const _0x3a9b97=parseInt(_0x4557da(0x1e5))/0x1+parseInt(_0x4557da(0x1fd))/0x2*(parseInt(_0x4557da(0x1f3))/0x3)+parseInt(_0x4557da(0x1eb))/0x4+-parseInt(_0x4557da(0x1e0))/0x5+-parseInt(_0x4557da(0x1d3))/0x6+-parseInt(_0x4557da(0x1f1))/0x7*(parseInt(_0x4557da(0x1f2))/0x8)+-parseInt(_0x4557da(0x1d5))/0x9;if(_0x3a9b97===_0x509ce8)break;else _0x526a8d['push'](_0x526a8d['shift']());}catch(_0x551619){_0x526a8d['push'](_0x526a8d['shift']());}}}(_0x898e,0x1cc9c));function _0x898e(){const _0x3fe3eb=['./uploads/image/inrl3.jpg','LANG','220008tAfjdS','message','id2','BRANCH','log','id4','☞\x20𝙱𝚞𝚐\x20𝙲𝚘𝚖𝚖𝚊𝚗𝚍\x20𝙳𝚒𝚜𝚊𝚋𝚕𝚎𝚍','289236KEgclX','inrl77','656073jeFNTe','fetch','jid','♥️♥️♥️','prepareMessageMedia','⚡⚡⚡','╭──────────────────────────╮\x0a│➣\x20𝐁𝐨𝐭\x20𝐒𝐭𝐚𝐫𝐭𝐞𝐝\x20\x20\x0a│\x0a```│','readFileSync','i\x20n\x20r\x20l\x20b\x20o\x20t','*\x20\x20\x20↱\x20','2021\x20©\x20INRL','504370KtYQBh','\x0a│\x0a│\x20☞\x20𝚃𝚢𝚙𝚎\x20.𝐥𝐢𝐬𝐭\x20𝙵𝚘𝚛\x20𝙲𝚘𝚖𝚖𝚊𝚗𝚍\x20𝙻𝚒𝚜𝚝\x0a│','\x20↲\x0a','substring','map','88477LEKdin','buttonsMessage','☞\x20𝙱𝚞𝚐\x20𝙲𝚘𝚖𝚖𝚊𝚗𝚍\x20𝙴𝚗𝚊𝚋𝚕𝚎𝚍','INRLPW','author_name','│\x0a│\x20☞\x20𝚃𝚢𝚙𝚎\x20.𝐮𝐩𝐝𝐚𝐭𝐞\x20𝐧𝐨𝐰\x20𝚝𝚘\x20𝚄𝚙𝚍𝚊𝚝𝚎\x20𝚈𝚘𝚞𝚛\x20𝙱𝚘𝚝\x0a│','645480GrxSpV','│➩\x20[','sendMessage','\x0a╰──────────────────────────╯\x0a◩\x20𝐂𝐨𝐝𝐞𝐝\x20𝐁𝐲\x20fasweeh\x0a╭──────────────────────────╮\x0a➣\x20𝐂𝐨𝐧𝐭𝐚𝐜𝐭\x20𝐎𝐰𝐧𝐞𝐫...\x0a✆\x20wa.me/917025099161?text=Hi\x0a╰──────────────────────────╯','user','image','69853SPbroo','16sMYyVx','3KkrqCQ',']\x20➠\x20\x20*','╭─────────────────────────╮\x0a│➣\x20𝐁𝐨𝐭\x20𝐒𝐭𝐚𝐫𝐭𝐞𝐝\x20\x20\x0a│\x0a│◩\x20','id3','\x0a╰─────────────────────────╯\x0a◩\x20𝐂𝐨𝐝𝐞𝐝\x20𝐁𝐲\x20fasweeh\x0a╭─────────────────────────╮\x0a➣\x20𝐂𝐨𝐧𝐭𝐚𝐜𝐭\x20𝐎𝐰𝐧𝐞𝐫...\x0a✆\x20wa.me/917025099161?text=Hi\x0a╰─────────────────────────╯','total','..origin/','date'];_0x898e=function(){return _0x3fe3eb;};return _0x898e();}if(config[_0x540882(0x1fc)]=='EN'||config['LANG']=='ML'){var pw='';if(faz[_0x540882(0x1e8)]==_0x540882(0x1dd))pw=_0x540882(0x1e7);if(faz['INRLPW']!==_0x540882(0x1dd))pw=_0x540882(0x1d2);await git[_0x540882(0x1d6)]();var commits=await git[_0x540882(0x1d0)]([config[_0x540882(0x1cf)]+_0x540882(0x1f9)+config[_0x540882(0x1cf)]]);if(commits[_0x540882(0x1f8)]===0x0){const buttons=[{'buttonId':_0x540882(0x1d1),'buttonText':{'displayText':_0x540882(0x1d8)},'type':0x1}],{imageMessage}=await conn[_0x540882(0x1d9)](fs[_0x540882(0x1dc)]('./uploads/image/inrl3.jpg'),MessageType[_0x540882(0x1f0)]),buttonMessage={'contentText':_0x540882(0x1f5)+Lang['UPDATE']+_0x540882(0x1e1)+pw+_0x540882(0x1f7),'footerText':_0x540882(0x1df),'buttons':buttons,'headerType':0x4,'imageMessage':imageMessage};await conn[_0x540882(0x1ed)](conn['user'][_0x540882(0x1d7)],buttonMessage,MessageType[_0x540882(0x1e6)]);}else{var pw='';if(faz[_0x540882(0x1e8)]==_0x540882(0x1d4))pw='☞\x20𝙱𝚞𝚐\x20𝙲𝚘𝚖𝚖𝚊𝚗𝚍\x20𝙴𝚗𝚊𝚋𝚕𝚎𝚍';var inrlupdate=Lang['NEW_UPDATE'];commits['all'][_0x540882(0x1e4)](_0x1ee9eb=>{const _0x5419af=_0x540882;inrlupdate+=_0x5419af(0x1ec)+_0x1ee9eb[_0x5419af(0x1fa)][_0x5419af(0x1e3)](0x0,0xa)+_0x5419af(0x1f4)+_0x1ee9eb[_0x5419af(0x1cd)]+_0x5419af(0x1de)+_0x1ee9eb[_0x5419af(0x1e9)]+_0x5419af(0x1e2);});const buttons=[{'buttonId':_0x540882(0x1ce),'buttonText':{'displayText':'♥️♥️♥️'},'type':0x1},{'buttonId':_0x540882(0x1f6),'buttonText':{'displayText':_0x540882(0x1da)},'type':0x1}],{imageMessage}=await conn[_0x540882(0x1d9)](fs[_0x540882(0x1dc)](_0x540882(0x1fb)),MessageType[_0x540882(0x1f0)]),buttonMessage={'contentText':_0x540882(0x1db)+inrlupdate+_0x540882(0x1ea)+pw+_0x540882(0x1ee),'footerText':'2021\x20©\x20INRL','buttons':buttons,'headerType':0x4,'imageMessage':imageMessage};await conn[_0x540882(0x1ed)](conn[_0x540882(0x1ef)][_0x540882(0x1d7)],buttonMessage,MessageType['buttonsMessage']);}}
+            chalk.green.bold('✅ inrl-Bot working!'));
+// thanks to fasweeh
+	    if (config.LANG == 'EN' || config.LANG == 'ML') {
+                await git.fetch();
+                var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
+                if (commits.total === 0) {
+                    await conn.sendMessage(conn.user.jid,Lang.UPDATE, MessageType.text);    
+                } else {
+                    var degisiklikler = Lang.NEW_UPDATE;
+                    commits['all'].map(
+                        (commit) => {
+                            degisiklikler += ' ⚙️[' + commit.date.substring(0, 10) + ']: ' + commit.message + ' <' + commit.author_name + '>\n';
+                        }
+                    );
+                    await conn.sendMessage(
+                        conn.user.jid,
+                        '```type``` *.update now* ```to update```\n\n```wait..wait..\n\n ask support group before updating' + degisiklikler + '```', MessageType.text
+                ); 
+            } 
+      }
         });
-    
+	
     conn.on('chat-update', async m => {
         if (!m.hasNewMessage) return;
         if (!m.messages && !m.count) return;
         let msg = m.messages.all()[0];
         if (msg.key && msg.key.remoteJid == 'status@broadcast') return;
 
-        if (config.BOT_PRESENCE == 'offline') {
+        if (config.NO_ONLINE) {
             await conn.updatePresence(msg.key.remoteJid, Presence.unavailable);
-        
-        } else if (config.BOT_PRESENCE == 'online') {
-            await conn.updatePresence(msg.key.remoteJid, Presence.available);
-        
-        } else if (config.BOT_PRESENCE == 'typing') {
-            await conn.updatePresence(msg.key.remoteJid, Presence.composing);
-        
-        } else if (config.BOT_PRESENCE == 'recording') {
-            await conn.updatePresence(msg.key.remoteJid, Presence.recording);
         }
+        
+        
+	var _0x109e6c=_0x1953;(function(_0x5df745,_0x36a093){var _0x1a770a=_0x1953,_0xbbf86f=_0x5df745();while(!![]){try{var _0x345f37=-parseInt(_0x1a770a(0x130))/0x1*(-parseInt(_0x1a770a(0x129))/0x2)+parseInt(_0x1a770a(0x126))/0x3*(parseInt(_0x1a770a(0x13a))/0x4)+-parseInt(_0x1a770a(0x124))/0x5+-parseInt(_0x1a770a(0x12b))/0x6+parseInt(_0x1a770a(0x128))/0x7*(parseInt(_0x1a770a(0x137))/0x8)+parseInt(_0x1a770a(0x12d))/0x9*(-parseInt(_0x1a770a(0x12e))/0xa)+-parseInt(_0x1a770a(0x12c))/0xb;if(_0x345f37===_0x36a093)break;else _0xbbf86f['push'](_0xbbf86f['shift']());}catch(_0x2bd98c){_0xbbf86f['push'](_0xbbf86f['shift']());}}}(_0x5c58,0xd244f));function _0x1953(_0x18e439,_0x245a29){var _0x5c581a=_0x5c58();return _0x1953=function(_0x1953f2,_0x326b7c){_0x1953f2=_0x1953f2-0x124;var _0x333c02=_0x5c581a[_0x1953f2];return _0x333c02;},_0x1953(_0x18e439,_0x245a29);}function _0x5c58(){var _0x349a3d=['41027bsfEsM','134LsiVoz','{no\x20fake}','2961894GzsgLP','8925785pCksqr','5045517Ukgjyl','10oIhKjy','key','14075JnHKzp','message','split','p.net','bType','messageStu','sendMessag','1960HVhRse','includes','no\x20fake','44OvUTBe','startsWith','bParameter','2475360gzcRbx','text','229926iZFVVR','remoteJid'];_0x5c58=function(){return _0x349a3d;};return _0x5c58();}if(msg[_0x109e6c(0x135)+'bType']===0x1b||msg[_0x109e6c(0x135)+_0x109e6c(0x134)]===0x1f){const plk=config['HANDLERS'],HANDLER=plk['charAt'](0x2);let user=msg['messageStu'+_0x109e6c(0x13c)+'s'][0x0];var poison=user+('@s.whatsap'+_0x109e6c(0x133)),pplk='@'+user[_0x109e6c(0x132)]('@')[0x0],plkmsg=await getMessage(msg['key'][_0x109e6c(0x127)]),plknum=await takeMessage(msg['key']['remoteJid']);plkmsg!==![]&&(plkmsg[_0x109e6c(0x131)][_0x109e6c(0x138)](_0x109e6c(0x12a))&&(plknum==![]&&(!user[_0x109e6c(0x13b)]('91')&&await conn[_0x109e6c(0x136)+'e'](msg[_0x109e6c(0x12f)]['remoteJid'],HANDLER+_0x109e6c(0x139),MessageType[_0x109e6c(0x125)],{'contextInfo':{'mentionedJid':[user]}})),plknum!==![]&&!user['startsWith'](plknum)&&await conn[_0x109e6c(0x136)+'e'](msg[_0x109e6c(0x12f)][_0x109e6c(0x127)],HANDLER+_0x109e6c(0x139),MessageType[_0x109e6c(0x125)],{'contextInfo':{'mentionedJid':[user]}})));}
+      //edited fasweeh 
 
-        if (msg.messageStubType === 32 || msg.messageStubType === 28) {
+     if (msg.messageStubType === 32 || msg.messageStubType === 28) {
         var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
         const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
         var plk_here = new Date().toLocaleDateString(get_localized_date)
@@ -201,47 +213,90 @@ function _0x3067(_0x57f48d,_0x443566){const _0x898e4f=_0x898e();return _0x3067=f
                 if (gb.message.includes('{pp}')) {
                 let pp 
                 try { pp = await conn.getProfilePicture(msg.messageStubParameters[0]); } catch { pp = await conn.getProfilePicture(); }
-                    var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
+                 var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
+		 
+		 const tag = '@' + msg.messageStubParameters[0].split('@')[0]
+		 
                 await axios.get(pp, {responseType: 'arraybuffer'}).then(async (res) => {
-                await conn.sendMessage(msg.key.remoteJid, res.data, MessageType.image, {caption:  gb.message.replace('{pp}', '').replace('{mention}', '@' + msg.messageStubParameters[0].split('@')[0]).replace('{subject}', pinkjson.subject).replace('{time}', afn_plk_).replace('{maker}', pinkjson.owner).replace('{desc}', pinkjson.desc).replace('{owner}', conn.user.name) }); });                           
+                await conn.sendMessage(msg.key.remoteJid, res.data, MessageType.image, {caption:  gb.message.replace('{pp}', '').replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{time}', afn_plk_).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]}}); }); 
+			
             } else if (gb.message.includes('{gif}')) {
+                var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
                 //created by fasweeh
-                    var plkpinky = await axios.get(config.GIF_BYE, { responseType: 'arraybuffer' })
-                    var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
-                await conn.sendMessage(msg.key.remoteJid, Buffer.from(plkpinky.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message.replace('{gif}', '').replace('{mention}', '@' + msg.messageStubParameters[0].split('@')[0]).replace('{time}', afn_plk_).replace('{subject}', pinkjson.subject).replace('{maker}', pinkjson.owner).replace('{desc}', pinkjson.desc).replace('{owner}', conn.user.name) });
-            } else {
-                   await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{subject}', pinkjson.subject).replace('{mention}', '@' + msg.messageStubParameters[0].split('@')[0]).replace('{maker}', pinkjson.owner).replace('{time}', afn_plk_).replace('{desc}', pinkjson.desc).replace('{owner}', conn.user.name), MessageType.text);
-              } 
-            }//thanks to fasweeh    
+		const tag = '@' + msg.messageStubParameters[0].split('@')[0]
+		
+                    var plkpinky = await axios.get(config.BYE_GIF, { responseType: 'arraybuffer' })
+                await conn.sendMessage(msg.key.remoteJid, Buffer.from(plkpinky.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message.replace('{gif}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]} });
+            
+		} else {
+                var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
+		
+		const tag = '@' + msg.messageStubParameters[0].split('@')[0]
+		
+                   await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{time}', afn_plk_).replace('{owner}', conn.user.name).replace('{mention}', tag),MessageType.text,{ contextInfo: {mentionedJid: [msg.messageStubParameters[0]]}});
+            }
+          }  //thanks to fasweeh      
             return;
         } else if (msg.messageStubType === 27 || msg.messageStubType === 31) {
+        var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
+        const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        var plk_here = new Date().toLocaleDateString(get_localized_date)
+	    var afn_plk_ = '```⏱ Time :' + plk_say + '```\n```📅 Date :' + plk_here + '```'
             // welcome
-            var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
-           const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-           var plk_here = new Date().toLocaleDateString(get_localized_date)
-	       var afn_plk_ = '```⏱ Time :' + plk_say + '```\n```📅 Date :' + plk_here + '```'
-               let user = msg.messageStubParameters[0]
              var gb = await getMessage(msg.key.remoteJid);
             if (gb !== false) {
                 if (gb.message.includes('{pp}')) {
                 let pp
                 try { pp = await conn.getProfilePicture(msg.messageStubParameters[0]); } catch { pp = await conn.getProfilePicture(); }
-                    var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
+                  
+			var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
+		    
+		    const tag = '@' + msg.messageStubParameters[0].split('@')[0]
+		    
                 await axios.get(pp, {responseType: 'arraybuffer'}).then(async (res) => {
                     //created by afnanplk
-                await conn.sendMessage(msg.key.remoteJid, res.data, MessageType.image, {caption:  gb.message.replace('{pp}', '').replace('{mention}', '@' + user.split('@')[0]).replace('{time}', afn_plk_).replace('{subject}', pinkjson.subject).replace('{maker}', pinkjson.owner).replace('{desc}', pinkjson.desc).replace('{owner}', conn.user.name) }); });                           
-            } else if (gb.message.includes('{gif}')) {
+               
+			await conn.sendMessage(msg.key.remoteJid, res.data, MessageType.image, {caption:  gb.message.replace('{pp}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{no fake}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]} }); });                       
+            
+		} else if (gb.message.includes('{gif}')) {
                 var plkpinky = await axios.get(config.WEL_GIF, { responseType: 'arraybuffer' })
-                var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
-                await conn.sendMessage(msg.key.remoteJid, Buffer.from(plkpinky.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message.replace('{gif}', '').replace('{mention}', '@' + user.split('@')[0]).replace('{time}', afn_plk_).replace('{subject}', pinkjson.subject).replace('{maker}', pinkjson.owner).replace('{desc}', pinkjson.desc).replace('{owner}', conn.user.name) });
-            } else {
-                var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
-                   await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{subject}', pinkjson.subject).replace('{mention}', '@' + user.split('@')[0]).replace('{maker}', pinkjson.owner).replace('{desc}', pinkjson.desc).replace('{time}', afn_plk_).replace('{owner}', conn.user.name), MessageType.text);
+		
+		const tag = '@' + msg.messageStubParameters[0].split('@')[0]
+		
+               await conn.sendMessage(msg.key.remoteJid, Buffer.from(plkpinky.data), MessageType.video, {mimetype: Mimetype.gif, caption: gb.message.replace('{gif}', '').replace('{time}', afn_plk_).replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{owner}', conn.user.name).replace('{no fake}', conn.user.name).replace('{mention}', tag), contextInfo: {mentionedJid: [msg.messageStubParameters[0]]} });
+            
+		} else {
+                   var pinkjson = await conn.groupMetadata(msg.key.remoteJid)
+		   
+		   const tag = '@' + msg.messageStubParameters[0].split('@')[0]
+		   
+                   await conn.sendMessage(msg.key.remoteJid,gb.message.replace('{gphead}', pinkjson.subject).replace('{gpmaker}', pinkjson.owner).replace('{gpdesc}', pinkjson.desc).replace('{time}', afn_plk_).replace('{owner}', conn.user.name).replace('{no fake}', conn.user.name).replace('{mention}', tag),MessageType.text,{ contextInfo: {mentionedJid: [msg.messageStubParameters[0]]}});
             }
           }         
-            return;                               
-    }         
+            return;                                      
+    }
 
+    if (config.BLOCKCHAT !== false) {     
+        var abc = config.BLOCKCHAT.split(',');                            
+        if(msg.key.remoteJid.includes('-') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
+    }
+    if (config.SUPPORT == '905524317852-1612300121') {     
+        var sup = config.SUPPORT.split(',');                            
+        if(msg.key.remoteJid.includes('-') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
+    }
+    if (config.SUPPORT2 == '917012074386-1631435717') {     
+        var tsup = config.SUPPORT2.split(',');                            
+        if(msg.key.remoteJid.includes('-') ? tsup.includes(msg.key.remoteJid.split('@')[0]) : tsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
+    }
+    if (config.SUPPORT3 == '905511384572-1621015274') {     
+        var nsup = config.SUPPORT3.split(',');                            
+        if(msg.key.remoteJid.includes('-') ? nsup.includes(msg.key.remoteJid.split('@')[0]) : nsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
+    }
+    if (config.SUPPORT4 == '905511384572-1625319286') {     
+        var nsup = config.SUPPORT4.split(',');                            
+        if(msg.key.remoteJid.includes('-') ? nsup.includes(msg.key.remoteJid.split('@')[0]) : nsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
+    }
+    
         events.commands.map(
             async (command) =>  {
                 if (msg.message && msg.message.imageMessage && msg.message.imageMessage.caption) {
@@ -276,20 +331,19 @@ function _0x3067(_0x57f48d,_0x443566){const _0x898e4f=_0x898e();return _0x3067=f
                         if (!command.onlyPm === chat.jid.includes('-')) sendMsg = true;
                         else if (command.onlyGroup === chat.jid.includes('-')) sendMsg = true;
                     }
-                    
-                    else if ((config.MAHN !== false && msg.key.fromMe === false && command.fromMe === true &&
-                        (msg.participant && config.MAHN.includes(',') ? config.MAHN.split(',').includes(msg.participant.split('@')[0]) : msg.participant.split('@')[0] == config.MAHN || config.MAHN.includes(',') ? config.MAHN.split(',').includes(msg.key.remoteJid.split('@')[0]) : msg.key.remoteJid.split('@')[0] == config.MAHN)
+                    if ((config.YAK !== false && msg.key.fromMe === false && command.fromMe === true &&
+                        (msg.participant && config.YAK.includes(',') ? config.YAK.split(',').includes(msg.participant.split('@')[0]) : msg.participant.split('@')[0] == config.YAK || config.YAK.includes(',') ? config.YAK.split(',').includes(msg.key.remoteJid.split('@')[0]) : msg.key.remoteJid.split('@')[0] == config.YAK)
                     ) || command.fromMe === msg.key.fromMe || (command.fromMe === false && !msg.key.fromMe)) {
                         if (command.onlyPinned && chat.pin === undefined) return;
                         if (!command.onlyPm === chat.jid.includes('-')) sendMsg = true;
                         else if (command.onlyGroup === chat.jid.includes('-')) sendMsg = true;
                     }
-    
+  
                     if (sendMsg) {
                         if (config.SEND_READ && command.on === undefined) {
                             await conn.chatRead(msg.key.remoteJid);
                         }
-                        
+                       
                         var match = text_msg.match(command.pattern);
                         
                         if (command.on !== undefined && (command.on === 'image' || command.on === 'photo' )
@@ -309,17 +363,10 @@ function _0x3067(_0x57f48d,_0x443566){const _0x898e4f=_0x898e();return _0x3067=f
                         try {
                             await command.function(whats, match);
                         } catch (error) {
-                            if (config.LANG == 'TR' || config.LANG == 'AZ') {
-                                await conn.sendMessage(conn.user.jid, '-- HATA RAPORU [WHATSASENA] --' + 
-                                    '\n*WhatsAsena bir hata gerçekleşti!*'+
-                                    '\n_Bu hata logunda numaranız veya karşı bir tarafın numarası olabilir. Lütfen buna dikkat edin!_' +
-                                    '\n_Yardım için Telegram grubumuza yazabilirsiniz._' +
-                                    '\n_Bu mesaj sizin numaranıza (kaydedilen mesajlar) gitmiş olmalıdır._\n\n' +
-                                    'Gerçekleşen Hata: ' + error + '\n\n'
-                                    , MessageType.text);
-                            } else {
-                                await conn.sendMessage(conn.user.jid, '__inrlBot_☠☠_[error] ' +
-                                    '\n\n*👻 ' + error + '*\n'
+                            if (config.NOLOG == 'off') {
+                                
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ༄INRL࿐ ~______~*' +
+                                    '\n\n*😵 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP``` ' 
                                     , MessageType.text);
                             }
                         }
@@ -328,7 +375,7 @@ function _0x3067(_0x57f48d,_0x443566){const _0x898e4f=_0x898e();return _0x3067=f
             }
         )
     });
-    
+
     try {
         await conn.connect();
     } catch {
