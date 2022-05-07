@@ -20,7 +20,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'inrl:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'INRL:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
