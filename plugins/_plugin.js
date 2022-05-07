@@ -127,7 +127,7 @@ inrl.addCommand({pattern: 'plugin$', fromMe: true, dontAddCommandList: true, des
     } else {
         plugins.map(
             (plugin) => {
-                let vf = plugin.dataValues.url.includes('fasweeeh') ? msg : unmsg
+                let vf = plugin.dataValues.url.includes('inrlcoding') ? msg : unmsg
                 mesaj += '```' + plugin.dataValues.name + '```: ' + plugin.dataValues.url + '\n' + vf + '\n\n';
             }
         );
