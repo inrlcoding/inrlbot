@@ -1,0 +1,129 @@
+inrlcoding
+/
+inrlbot
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+ 1 branch
+ 0 tags
+Latest commit
+@inrlcoding
+inrlcoding Update app.json
+03ba88e
+3 minutes ago
+Git stats
+ 140 commits
+Files
+Type
+Name
+Latest commit message
+Commit time
+database
+fasweeh
+4 days ago
+inrl
+Update Dockerfile
+2 days ago
+language
+fasweeh
+4 days ago
+plugins
+😕
+3 days ago
+LICENSE
+Initial commit
+5 days ago
+README.md
+fasweeh
+4 days ago
+_config.yml
+fasweh
+4 days ago
+app.json
+Update app.json
+3 minutes ago
+bot.js
+Update bot.js
+2 days ago
+config.js
+😔
+3 days ago
+events.js
+fasweeh
+4 days ago
+faz.js
+fasweeh
+4 days ago
+helper.js
+Update helper.js
+2 days ago
+helpers.js
+Update helpers.js
+2 days ago
+heroku.yml
+fasweeh
+4 days ago
+language.js
+fasweeh
+4 days ago
+package.json
+fasweeh
+4 days ago
+qr.js
+FASWEEH
+4 days ago
+README.md
+#inrlbot
+
+Bot Setup
+Click SCAN and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+You will get a long text that needs after 4th step (INRL_SESSION).
+If You don't have a account in Heroku, Create a account.
+Click FORK
+Click the url showing below to copy deploy template
+https://heroku.com/deploy?template=https://https://github.com/fasweeh-mvr/inrlbots
+Now change fasweeh-mvr nOW with your github username and click ENJOY
+
+Contact for help:
+Click Contact Here For Contact fasweeh
+About
+No description, website, or topics provided.
+Topics
+Resources
+ Readme
+License
+ GPL-3.0 license
+Stars
+ 1 star
+Watchers
+ 1 watching
+Forks
+ 0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Languages
+JavaScript
+100.0%
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
